@@ -23,14 +23,14 @@ const App = () => {
           className="btn btn-primary btn-xl"
           style={{ marginRight: "15px" }}
         >
-          Less
+          -
         </button>
         <button
           onClick={IncNum}
           type="button"
           className="btn btn-primary btn-xl"
         >
-          Add
+          +
         </button>
       </div>
       <h6 className="text-center" style={{ marginTop: "30vh" }}>
